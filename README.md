@@ -2,9 +2,18 @@
 
 Pytorch Implementation of CAStyle.
 
-Based on: https://github.com/irasin/Pytorch_WCT
+Based on: 
+```
+https://github.com/irasin/Pytorch_WCT
+```
 
 The relevant model weight and configuration can be found in the above link.
+
+
+Ambiguous sketchy content image: 
+```
+https://ieee-dataport.org/documents/sketchy-content-image-style-transfer
+```
 
 If you find this repo useful, please consider citing:
 
