@@ -34,9 +34,8 @@ def main():
     parser.add_argument('--gpu',            '-g',   type=int, default=0,                help='GPU ID(negative value indicate CPU)')
     parser.add_argument('--model_state_path',       type=str, default='model_state',    help='save directory for result and loss')
     parser.add_argument('--model_layer', type=str, default='m',                         help='save directory for result and loss')
-    parser.add_argument('--output', type=str, default='output_1', help='save directory for result and loss')
-    parser.add_argument('--rounds', type=int, default=1, help='save directory for result and loss')
-    parser.add_argument('--weight_out', type=float, default=0.8, help='save directory for result and loss')
+    parser.add_argument('--output', type=str, default='output', help='save directory for result and loss')
+    parser.add_argument('--rounds', type=int, default=5, help='save directory for result and loss')
     args = parser.parse_args()
 
 
@@ -90,7 +89,7 @@ def main():
                 for r in range(args.rounds):
                     out = model(c_tensor, s_tensor, args.alpha)
                     c_tensor = aa * out + (1 - aa) * c_tensor
-            out = out #* args.weight_out
+            out = out #
 
             #if args.output_name is None:
             c_name = os.path.splitext(os.path.basename(content_path))[0]
