@@ -1,1 +1,1 @@
-can be downloaded in: https://github.com/irasin/Pytorch_WCT
+refer to: https://github.com/irasin/Pytorch_WCT
