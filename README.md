@@ -4,6 +4,8 @@ Code for paper "Content-activating for artistic style transfer with ambiguous sk
 
 Pytorch implementation of CAStyle.
 
+---
+
 Based on: 
 ```
 https://github.com/irasin/Pytorch_WCT
