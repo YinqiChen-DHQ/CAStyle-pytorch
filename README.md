@@ -1,8 +1,8 @@
 # Content-activating for artistic style transfer with ambiguous sketchy content image
 
-code for paper "Content-activating for artistic style transfer with ambiguous sketchy content image"(nerocomputing2025).
+Code for paper "Content-activating for artistic style transfer with ambiguous sketchy content image"(nerocomputing2025).
 
-Implementation of CAStyle.
+Pytorch implementation of CAStyle.
 
 Based on: 
 ```
