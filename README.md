@@ -4,10 +4,7 @@ Pytorch implementation of CAStyle. Code for paper "Content-activating for artist
 
 
 
-Based on: 
-```
-https://github.com/irasin/Pytorch_WCT
-```
+Based on: https://github.com/irasin/Pytorch_WCT
 
 The relevant model weight and configuration can be found in the above link.
 
