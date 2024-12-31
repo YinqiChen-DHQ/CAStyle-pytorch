@@ -12,7 +12,7 @@ https://github.com/irasin/Pytorch_WCT
 The relevant model weight and configuration can be found in the above link.
 
 
-dateset of "Ambiguous sketchy content image": 
+Dateset of "Ambiguous sketchy content image": 
 ```
 https://ieee-dataport.org/documents/sketchy-content-image-style-transfer
 ```
