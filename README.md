@@ -2,6 +2,8 @@
 
 Pytorch Implementation of CAStyle.
 
+Based on: https://github.com/irasin/Pytorch_WCT
+
 If you find this repo useful, please consider citing:
 
 ```
