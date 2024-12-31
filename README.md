@@ -17,6 +17,11 @@ Dateset of "Ambiguous sketchy content image":
 https://ieee-dataport.org/documents/sketchy-content-image-style-transfer
 ```
 
+Paper link:
+```
+https://www.sciencedirect.com/science/article/abs/pii/S092523122401988X
+```
+
 If you find this repo useful, please consider citing:
 
 ```
