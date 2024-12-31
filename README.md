@@ -1,4 +1,5 @@
-# CAStyle-pytorch
+# Content-activating for artistic style transfer with ambiguous sketchy content image
+
 Pytorch Implementation of CAStyle.
 
 If you find this repo useful, please consider citing:
