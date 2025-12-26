@@ -15,7 +15,7 @@ https://ieee-dataport.org/documents/sketchy-content-image-style-transfer
 
 Paper link:
 ```
-https://www.sciencedirect.com/science/article/abs/pii/S092523122401988X
+https://doi.org/10.1016/j.neucom.2024.129217
 ```
 
 If you find this repo useful, please consider citing:
